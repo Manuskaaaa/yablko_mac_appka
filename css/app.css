@@ -30,21 +30,11 @@ body {
 
     display: flex;
     flex-direction: row;
-    
+
     overflow: hidden;
 }
 
 aside,
 main {
     padding: 1.25rem;
-}
-
-aside {
-    background: rgb(75, 85, 99);
-    width: 33.333333%;
-}
-
-main {
-    width: 66.666667%;
-    border-left: 2px solid black;
 }
